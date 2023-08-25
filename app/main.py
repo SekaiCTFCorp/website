@@ -11,7 +11,7 @@ def index():
 @app.route("/contact", methods=["POST"])
 def contact():
     # TODO: Implement this
-    return ""
+    return "test"
 
 
 if __name__ == "__main__":
